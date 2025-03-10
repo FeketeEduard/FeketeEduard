@@ -2,6 +2,7 @@
 
 🎓 2nd Year Computer Science Student
 💻 Passionate about software development, backend systems, mobile applications and cybersecurity.
+
 🚀 Currently building a mobile app in Kotlin with a C# .NET backend and SQL Server.
 
 🔹 Technologies & Skills(I'm trying to learn):
